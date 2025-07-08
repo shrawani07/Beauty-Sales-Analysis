@@ -52,7 +52,7 @@ This project performs exploratory data analysis (EDA) and visualization on beaut
 > 📍 *Includes charts like scatter plot of top brands, bar chart of discounts, and line chart of revenue.*
 
 ## 📬 Contact
-For questions or suggestions, feel free to contact **[Your Name]** at [your.email@example.com].
+For questions or suggestions, feel free to contact **[Shrawani Gongshe]** at [sgongsheemail@example.com].
 
 ---
 
